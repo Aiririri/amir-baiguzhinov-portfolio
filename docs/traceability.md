@@ -9,7 +9,7 @@
 | FR-03 / US-03 | Open Aruskin.ai link; verify destination and separate-tab behavior. | TC-03 | Not run |
 | FR-04 | Verify interests and language levels match supplied facts. | TC-04 | Not run |
 | FR-05 / US-04 | Navigate all sections on desktop and mobile. | TC-05 | Not run |
-| FR-06 / US-05 | Switch between Kazakh, Russian and English; verify equivalent content and page language. | TC-06 | Blocked — language feature not implemented |
+| FR-06 / US-05 | Switch between Kazakh, Russian and English; verify equivalent content and page language. | TC-06 | Not run — implementation committed; browser verification pending |
 | FR-07 | Verify selected coursework/learning portfolio descriptions against owner-approved list. | TC-07 | Blocked — content not supplied |
 | FR-08 | Verify achievements, extracurriculars and future plans against owner-approved facts. | TC-08 | Blocked — content not supplied |
 | FR-09 / US-07 | Verify professional links and absence of unnecessary personal contact details. | TC-09 | Not run |
@@ -19,7 +19,7 @@
 | NFR-05 | Verify deployed site redirects/loads over HTTPS and repository contains no secrets. | TC-13 | Blocked — deployment pending |
 | NFR-08 | Check current Chrome, Firefox, Safari and mobile browser where available. | TC-14 | Not run |
 | NFR-09 | Check essential links/assets on public deployed site. | TC-15 | Blocked — deployment pending |
-| NFR-10 | Review all essential content, navigation, controls and metadata in all three languages. | TC-16 | Blocked — language feature not implemented |
+| NFR-10 | Review all essential content, navigation, controls and metadata in all three languages. | TC-16 | Not run — implementation committed; browser verification pending |
 
 ## Result policy
 - Use **Pass** only after executing the stated test and recording evidence.
