@@ -26,8 +26,8 @@ The website presents the student's education, interests, projects and profession
 - No paid hosting or domain purchase.
 - Personal details are published only with the owner's consent.
 - No private identifiers, home address, phone number, grades or personal documents.
-- Content facts supplied so far: KBTU student since 2024, programme label supplied as “ВТиПО”; graduate of Nazarbayev Intellectual School, Physics and Mathematics direction, Ust-Kamenogorsk; Founder & CEO of Aruskin.ai; language levels and interests are listed on the website.
-- The official English name of the KBTU programme, completed subjects, achievements, extracurricular activities and future plans have not yet been confirmed.
+- Content facts supplied so far: KBTU student since 2024 in Есептеу техникасы және бағдарламалық қамтамасыз ету (Computer Systems and Software); graduate of Nazarbayev Intellectual School, Physics and Mathematics direction, Ust-Kamenogorsk; Founder & CEO of Aruskin.ai; language levels and interests are listed on the website.
+- The programme name was supplied by the owner in Kazakh and English. Completed subjects, achievements, extracurricular activities and future plans have not yet been confirmed.
 
 ## 5. Functional requirements
 | ID | Requirement | Priority |
