@@ -49,7 +49,18 @@ The TSIS brief specifies deployment to InfinityFree with a free subdomain and HT
 
 ## Project status
 
-The initial website implementation is committed to the `main` branch. Browser testing, manual user testing, hosting deployment, and final TSIS evidence/report preparation must be completed and documented separately. Do not treat these steps as complete until they have actually been performed.
+The initial website implementation and the first documentation baseline are committed to the `main` branch. The current website is English-only; the required Kazakh/Russian/English versions and language selector are not implemented yet. Browser testing, manual user testing, hosting deployment, and final TSIS evidence/report preparation must be completed and documented separately. Do not treat these steps as complete until they have actually been performed.
+
+## Project documentation
+
+- `AGENTS.md` — repository scope, conventions and acceptance criteria.
+- `docs/requirements.md` — scope, functional/non-functional requirements and user stories.
+- `docs/backlog.md` — prioritized backlog and two-iteration plan.
+- `docs/ethics-and-privacy.md` — content inventory and privacy/ethical risk assessment.
+- `docs/design.md` — sitemap, wireframe notes, architecture and design decisions.
+- `docs/traceability.md` — requirements-to-test mapping and current status.
+- `tests/test-plan.md` and `tests/test-log.md` — planned checks and execution record.
+- `diagrams/*.mmd` — editable Mermaid diagram sources.
 
 ## Accuracy note
 
@@ -57,4 +68,4 @@ Portfolio content is based on information supplied by the site owner. No persona
 
 ## License
 
-Educational/personal portfolio project. No third-party assets are bundled. Google Fonts are loaded from Google's font service and are subject to their respective font licenses.
+Educational/personal portfolio project. No separate open-source licence has been selected or added; do not assume permission to reuse the source. No third-party image assets are bundled. Google Fonts are loaded from Google's font service and are subject to their respective font licenses.
