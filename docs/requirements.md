@@ -83,8 +83,8 @@ The website presents the student's education, interests, projects and profession
 **Given** I use keyboard navigation or assistive technology, **when** I move through the page, **then** landmarks, headings, links and controls have meaningful names and visible focus.
 
 ## 8. Current baseline gaps
-- Current website content is English-only; FR-06 and NFR-10 are not implemented.
-- The language selector is not present.
+- A Kazakh/Russian/English language selector and translated core page content have been implemented; TC-06 and TC-16 remain Not run until verified in a browser.
+- Some supplementary assignment content (coursework, achievements, extracurricular activities and future plans) still requires owner-provided facts.
 - Completed subjects/learning portfolio, achievements, extracurricular activities and future plans need owner-provided facts.
 - A privacy statement needs to be added.
 - Hosting, HTTPS, manual testing and launch evidence are not yet completed.
