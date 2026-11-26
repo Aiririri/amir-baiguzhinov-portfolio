@@ -20,7 +20,7 @@ For each execution, record:
 | TC-03 | Project link | Activate the Aruskin.ai link. | Correct external site opens; portfolio remains available. |
 | TC-04 | Content | Review interests and languages. | Content matches owner-approved information. |
 | TC-05 | Navigation | Open each navigation link on desktop and mobile. | Each link reaches the intended section; mobile menu closes after selection. |
-| TC-06 | Language | Select each of Kazakh, Russian and English. | All essential content and interface labels change consistently; language metadata is correct. |
+| TC-06 | Language | Select KZ, RU and EN; refresh the page after each selection. | Translated page content, navigation, metadata and active-button state update; selected language persists after refresh. |
 | TC-07 | Coursework | Review learning portfolio section. | Only verified completed subjects and descriptions are shown. |
 | TC-08 | Personal content | Review achievements, extracurriculars and future plans. | Only owner-confirmed details are published. |
 | TC-09 | Contact | Open each professional link. | Links work and no unnecessary private contact information is exposed. |
