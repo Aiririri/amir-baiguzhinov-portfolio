@@ -49,7 +49,7 @@ The TSIS brief specifies deployment to InfinityFree with a free subdomain and HT
 
 ## Project status
 
-The initial website implementation and the first documentation baseline are committed to the `main` branch. The current website is English-only; the required Kazakh/Russian/English versions and language selector are not implemented yet. Browser testing, manual user testing, hosting deployment, and final TSIS evidence/report preparation must be completed and documented separately. Do not treat these steps as complete until they have actually been performed.
+The initial website implementation and the first documentation baseline are committed to the `main` branch. The website now includes Kazakh, Russian and English content with a visible language selector. Browser testing, manual user testing, hosting deployment, and final TSIS evidence/report preparation must be completed and documented separately. Browser testing, manual user testing, hosting deployment, and final TSIS evidence/report preparation must be completed and documented separately. Do not treat these steps as complete until they have actually been performed.
 
 ## Project documentation
 
