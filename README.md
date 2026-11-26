@@ -64,7 +64,7 @@ The initial website implementation and the first documentation baseline are comm
 
 ## Accuracy note
 
-Portfolio content is based on information supplied by the site owner. No personal email address, phone number, awards, employment dates, or unverified achievements are published. The KBTU programme label is kept as supplied (`ВТиПО`); confirm the official English programme name before changing it.
+Portfolio content is based on information supplied by the site owner. No personal email address, phone number, awards, employment dates, or unverified achievements are published. The KBTU programme is listed as `Есептеу техникасы және бағдарламалық қамтамасыз ету` (Computer Systems and Software), based on the wording supplied by the site owner.
 
 ## License
 
